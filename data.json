@@ -1,7 +1,7 @@
 {
     "recipes": {"nr3a": true, "nr3b": true, "nr3e": true},
     "steam": {"nr3a": true, "nr3b": true, "nr3e": true},
-    "sube": {"nr3a": false, "nr3b": true, "nr3e": false},
+    "sube": {"nr3a": true, "nr3b": true, "nr3e": true},
     "gh": {"nr3a": true, "nr3b": true, "nr3e": true},
     "delicias": {"nr3a": false, "nr3b": false, "nr3e": false},
     "tp1": {"nr3a": false, "nr3b": false, "nr3e": false}
