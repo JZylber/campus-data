@@ -5,5 +5,5 @@
     "gh": {"nr3a": true, "nr3b": true, "nr3e": true},
     "delicias": {"nr3a": false, "nr3b": false, "nr3e": false},
     "tp1": {"nr3a": false, "nr3b": false, "nr3e": false},
-    "chino": {"nr3a": false, "nr3b": false, "nr3e": false},
+    "chino": {"nr3a": false, "nr3b": false, "nr3e": false}
 }
