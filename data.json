@@ -3,7 +3,7 @@
     "steam": {"nr3a": true, "nr3b": true, "nr3e": true},
     "sube": {"nr3a": true, "nr3b": true, "nr3e": true},
     "gh": {"nr3a": true, "nr3b": true, "nr3e": true},
-    "delicias": {"nr3a": true, "nr3b": false, "nr3e": true},
+    "delicias": {"nr3a": true, "nr3b": true, "nr3e": true},
     "chino": {"nr3a": false, "nr3b": false, "nr3e": false},
     "gei": {"nr3a": false, "nr3b": false, "nr3e": false}
 }
