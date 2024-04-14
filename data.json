@@ -6,5 +6,5 @@
     "delicias": {"nr3a": true, "nr3b": true, "nr3e": true},
     "chino": {"nr3a": true, "nr3b": true, "nr3e": true},
     "github": {"nr3a": true, "nr3b": true, "nr3e": true},
-    "gei": {"nr3a": false, "nr3b": false, "nr3e": false}
+    "gei": {"nr3a": true, "nr3b": true, "nr3e": true}
 }
