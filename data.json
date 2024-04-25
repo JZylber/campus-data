@@ -8,5 +8,5 @@
     "github": {"nr3a": true, "nr3b": true, "nr3e": true},
     "gei": {"nr3a": true, "nr3b": true, "nr3e": true},
     "actividadesviejas": {"nr3a": true, "nr3b": true, "nr3e": false},
-    "cesar": {"nr3a": false, "nr3b": true, "nr3e": false},
+    "cesar": {"nr3a": false, "nr3b": true, "nr3e": false}
 }
