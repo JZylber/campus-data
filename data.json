@@ -9,6 +9,6 @@
     "gei": {"nr3a": true, "nr3b": true, "nr3e": true},
     "actividadesviejas": {"nr3a": true, "nr3b": true, "nr3e": true},
     "cesar": {"nr3a": true, "nr3b": true, "nr3e": false},
-    "avellaneda": {"nr3a": false, "nr3b": true, "nr3e": false},
+    "avellaneda": {"nr3a": true, "nr3b": true, "nr3e": false},
     "ticet": {"nr3a": false, "nr3b": true, "nr3e": false}
 }
