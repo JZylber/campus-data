@@ -8,7 +8,8 @@
     "github": {"nr3a": true, "nr3b": true, "nr3e": true},
     "gei": {"nr3a": true, "nr3b": true, "nr3e": true},
     "actividadesviejas": {"nr3a": true, "nr3b": true, "nr3e": true},
-    "cesar": {"nr3a": true, "nr3b": true, "nr3e": false},
+    "cesar": {"nr3a": true, "nr3b": true, "nr3e": true},
     "avellaneda": {"nr3a": true, "nr3b": true, "nr3e": false},
-    "ticet": {"nr3a": false, "nr3b": true, "nr3e": false}
+    "ticet": {"nr3a": false, "nr3b": true, "nr3e": false},
+    "avatar": {"nr3a": false, "nr3b": false, "nr3e": false}
 }
