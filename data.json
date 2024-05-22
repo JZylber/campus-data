@@ -13,5 +13,5 @@
     "ticet": {"nr3a": true, "nr3b": true, "nr3e": true},
     "avatar": {"nr3a": true, "nr3b": true, "nr3e": true},
     "nba": {"nr3a": false, "nr3b": false, "nr3e": false},
-    "pacman": {"nr3a": false, "nr3b": true, "nr3e": true}
+    "pacman": {"nr3a": true, "nr3b": true, "nr3e": true}
 }
