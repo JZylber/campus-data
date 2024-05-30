@@ -5,133 +5,204 @@
       "tema": "HTML y CSS",
       "tipo": "actividad",
       "imagen": "https://www.funkyasiankitchen.com/wp-content/uploads/2021/10/prep-photo-51-copy.jpg",
-      "link": "https://campus.ort.edu.ar/articulo/2055472"
+      "link": "https://campus.ort.edu.ar/articulo/2055472",
+      "material": []
     },
     "steam": {
       "nombre": "Steam Sale Salada",
       "tema": "Variables",
       "tipo": "actividad",
       "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/2048px-Steam_icon_logo.svg.png",
-      "link": "https://campus.ort.edu.ar/articulo/2058662/steam-sale-salada"
+      "link": "https://campus.ort.edu.ar/articulo/2058662/steam-sale-salada",
+      "material": []
     },
     "gh": {
       "nombre": "Gran hermano",
       "tema": "Tipos de datos",
       "tipo": "actividad",
       "imagen": "data:image/jpeg;base64,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",
-      "link": "https://campus.ort.edu.ar/articulo/2061668/gran-hermano"
+      "link": "https://campus.ort.edu.ar/articulo/2061668/gran-hermano",
+      "material": []
     },
     "sube": {
       "nombre": "SUBE",
       "tema": "Condicionales",
       "tipo": "actividad",
       "imagen": "https://play-lh.googleusercontent.com/OrrzYcaConNjz4lq2zn0YVX3gf2TuZCQwrzm6LNkyTjR7WAkEljmvdEd5NbXRRI-Aw",
-      "link": "https://campus.ort.edu.ar/articulo/2060842/sube-registrada"
+      "link": "https://campus.ort.edu.ar/articulo/2060842/sube-registrada",
+      "material": ["condicionales1"]
     },
     "delicias": {
       "nombre": "Las Delicias de Montañeses",
       "tema": "Condicionales Avanzados",
       "tipo": "actividad",
       "imagen": "https://www.mausi.com/wp-content/uploads/2020/07/facturas.jpg",
-      "link": "https://campus.ort.edu.ar/articulo/2071495/las-delicias-de-montaneses"
+      "link": "https://campus.ort.edu.ar/articulo/2071495/las-delicias-de-montaneses",
+      "material": ["condicionales2"]
     },
     "ferreteria": {
       "nombre": "Ferretería \"De Cesare\"",
       "tema": "Trabajo Práctico I",
       "tipo": "tp",
       "imagen": "https://pampafilms.com.ar/wp-content/uploads/2023/03/Galeria-Pampa-1200-x-800-un-cuento-chino-1.jpg",
-      "link": "https://campus.ort.edu.ar/articulo/2072607/ferreteria-de-cesare-"
+      "link": "https://campus.ort.edu.ar/articulo/2072607/ferreteria-de-cesare-",
+      "material": []
     },
     "github": {
       "nombre": "Tarea GitHub",
       "tema": "Instalación y Cuenta",
       "tipo": "tarea",
       "imagen": "https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg",
-      "link": "https://campus.ort.edu.ar/articulo/2079805/tarea-github"
+      "link": "https://campus.ort.edu.ar/articulo/2079805/tarea-github",
+      "material": []
     },
     "gei": {
       "nombre": "Gases de Efecto Invernadero",
       "tema": "Git y Github",
       "tipo": "actividad",
       "imagen": "https://img.freepik.com/fotos-premium/chimenea-que-simboliza-produccion-industrial-impacto-ambiental_629685-1586.jpg",
-      "link": "https://campus.ort.edu.ar/articulo/2075934/gases-de-efecto-invernadero"
+      "link": "https://campus.ort.edu.ar/articulo/2075934/gases-de-efecto-invernadero",
+      "material": ["grupos"]
     },
     "actividadesViejas": {
       "nombre": "Actividades Viejas",
       "tema": "Actividades Viejas",
       "tipo": "tarea",
       "imagen": "https://www.quill.com/content/index/resource-center/office-furniture-tips-ideas/faq/which-holds-more-vertical-or-lateral-file-cabinets/images/metallic-filing-cabinet-with-one-drawer-open-1205.jpg",
-      "link": "https://campus.ort.edu.ar/articulo/2085373/actividades-viejas"
+      "link": "https://campus.ort.edu.ar/articulo/2085373/actividades-viejas",
+      "material": []
     },
     "cesar": {
       "nombre": "Cifrado César",
       "tema": "Funciones: Uso",
       "tipo": "actividad",
       "imagen": "https://www.walksinsiderome.com/wp-content/uploads/2022/09/Julius-Caesar-1024x576-1-960x576.jpg",
-      "link": "https://campus.ort.edu.ar/articulo/2090638/cifrado-cesar"
+      "link": "https://campus.ort.edu.ar/articulo/2090638/cifrado-cesar",
+      "material": ["funciones"]
     },
     "avellaneda": {
       "nombre": "Avenida Avellaneda",
       "tema": "Funciones: Declaración",
       "tipo": "actividad",
       "imagen": "https://s7e6w6d2.rocketcdn.me/wp-content/uploads/2017/02/BkxZDuu3mg_930x525.jpg",
-      "link": "https://campus.ort.edu.ar/articulo/2091307/avenida-avellaneda"
+      "link": "https://campus.ort.edu.ar/articulo/2091307/avenida-avellaneda",
+      "material": []
     },
     "ticet": {
       "nombre": "TICet",
       "tema": "Eventos",
       "tipo": "actividad",
       "imagen": "https://upload.wikimedia.org/wikipedia/en/2/29/Nonagon_Infinity.png",
-      "link": "https://campus.ort.edu.ar/articulo/2091399/ticet"
+      "link": "https://campus.ort.edu.ar/articulo/2091399/ticet",
+      "material": ["eventos"]
     },
     "avatar": {
       "nombre": "Avatar",
       "tema": "Objetos",
       "tipo": "actividad",
       "imagen": "https://www.tonica.la/__export/1655760341555/sites/debate/img/2022/06/20/avatar-la-leyende-aang-netflix.jpg_423682103.jpg",
-      "link": "https://campus.ort.edu.ar/secundaria/belgrano/tic/articulo/2095144/avatar"
+      "link": "https://campus.ort.edu.ar/secundaria/belgrano/tic/articulo/2095144/avatar",
+      "material": ["objetos"]
     },
     "pacman": {
       "nombre": "Pac-Man",
       "tema": "Figma y CSS",
       "tipo": "interdisciplinaria",
       "imagen": "https://static.bandainamcoent.eu/high/pac-man/brand-setup/pac_thumb_brand_624x468_4b.jpg",
-      "link": "https://campus.ort.edu.ar/articulo/2101769/pac-man"
+      "link": "https://campus.ort.edu.ar/articulo/2101769/pac-man",
+      "material": []
     },
     "nba": {
       "nombre": "NBA",
       "tema": "DOM",
       "tipo": "actividad",
       "imagen": "https://i.pinimg.com/originals/bd/f5/c0/bdf5c05a75a4044e76e64e02c16088eb.jpg",
-      "link": "https://campus.ort.edu.ar/secundaria/belgrano/tic/articulo/2096451/nba"
+      "link": "https://campus.ort.edu.ar/secundaria/belgrano/tic/articulo/2096451/nba",
+      "material": ["dom"]
     },
     "huella": {
       "nombre": "Huella de Carbono",
       "tema": "Trabajo Práctico II",
       "tipo": "tp",
       "imagen": "https://images.pagina12.com.ar/styles/focal_content_1200x1050/public/2022-11/652919-trenes-20argentinos.jpg?itok=XzVdfjXK",
-      "link": "https://campus.ort.edu.ar/articulo/2101565/huella-de-carbono-shulian-s-version-"
+      "link": "https://campus.ort.edu.ar/articulo/2101565/huella-de-carbono-shulian-s-version-",
+      "material": []
     },
     "pizzeria": {
       "nombre": "Pizzería Bajo Belgrano",
       "tema": "Ciclos I",
       "tipo": "actividad",
       "imagen": "https://www.clarin.com/2023/08/03/s9ThhoomY_2000x1500__1.jpg",
-      "link": ""
+      "link": "",
+      "material": ["ciclos1"]
     },
     "compass": {
       "nombre": "Operation Compass",
       "tema": "Ciclos II",
       "tipo": "actividad",
       "imagen": "https://warfarehistorynetwork.com/wp-content/uploads/2016/11/W-Compass-12-HT-Nov11.jpg",
-      "link": "https://campus.ort.edu.ar/articulo/2105278/operation-compass"
+      "link": "https://campus.ort.edu.ar/articulo/2105278/operation-compass",
+      "material": []
     },
     "espera": {
       "nombre": "Sala de Espera",
       "tema": "Formularios",
       "tipo": "actividad",
       "imagen": "https://as1.ftcdn.net/v2/jpg/04/74/35/92/1000_F_474359266_oBlaE0D0Gb0hFnGIlR9c7CyVRzbKf69r.jpg",
-      "link": "https://campus.ort.edu.ar/articulo/2101073/sala-de-espera"
+      "link": "https://campus.ort.edu.ar/articulo/2101073/sala-de-espera",
+      "material": []
+    }
+  },
+  "material": {
+    "campus": {
+      "nombre": "Campus",
+      "imagen": "img/home.svg",
+      "link": "https://jzylber.github.io/campus-data/Material/Campus.zip"
+    },
+    "condicionales1": {
+      "nombre": "If/Else",
+      "imagen": "img/control.svg",
+      "link": "https://jzylber.github.io/campus-data/Clases/Condicionales%20I.zip"
+    },
+    "condicionales2": {
+      "nombre": "And/Or/Not",
+      "imagen": "img/control.svg",
+      "link": "https://jzylber.github.io/campus-data/Clases/Condicionales%20II.zip"
+    },
+    "grupos": {
+      "nombre": "Generador de Grupos",
+      "imagen": "img/group.svg",
+      "link": "https://jzylber.github.io/campus-data/Material/Agrupador.zip"
+    },
+    "funciones": {
+      "nombre": "Funciones",
+      "imagen": "img/function.svg",
+      "link": "https://jzylber.github.io/campus-data/Clases/Funciones%20JS.zip"
+    },
+    "eventos": {
+      "nombre": "Eventos",
+      "imagen": "img/click.svg",
+      "link": "https://jzylber.github.io/campus-data/Clases/Eventos%20JS.zip"
+    },
+    "objetos": {
+      "nombre": "Objetos",
+      "imagen": "img/box.svg",
+      "link": "https://jzylber.github.io/campus-data/Clases/Objetos%20JS.zip"
+    },
+    "dom": {
+      "nombre": "DOM",
+      "imagen": "img/webpage.svg",
+      "link": "https://jzylber.github.io/campus-data/Clases/DOM.zip"
+    },
+    "ciclos1": {
+      "nombre": "Ciclos I",
+      "imagen": "img/loop.svg",
+      "link": ""
+    },
+    "array": {
+      "nombre": "Listas",
+      "imagen": "img/array.svg",
+      "link": ""
     }
   },
   "cursos": {
