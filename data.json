@@ -161,47 +161,47 @@
     },
     "condicionales1": {
       "nombre": "If/Else",
-      "imagen": "img/control.svg",
+      "imagen": "https://jzylber.github.io/campus-data/img/control.svg",
       "link": "https://jzylber.github.io/campus-data/Clases/Condicionales%20I.zip"
     },
     "condicionales2": {
       "nombre": "And/Or/Not",
-      "imagen": "img/control.svg",
+      "imagen": "https://jzylber.github.io/campus-data/img/control.svg",
       "link": "https://jzylber.github.io/campus-data/Clases/Condicionales%20II.zip"
     },
     "grupos": {
       "nombre": "Generador de Grupos",
-      "imagen": "img/group.svg",
+      "imagen": "https://jzylber.github.io/campus-data/img/group.svg",
       "link": "https://jzylber.github.io/campus-data/Material/Agrupador.zip"
     },
     "funciones": {
       "nombre": "Funciones",
-      "imagen": "img/function.svg",
+      "imagen": "https://jzylber.github.io/campus-data/img/function.svg",
       "link": "https://jzylber.github.io/campus-data/Clases/Funciones%20JS.zip"
     },
     "eventos": {
       "nombre": "Eventos",
-      "imagen": "img/click.svg",
+      "imagen": "https://jzylber.github.io/campus-data/img/click.svg",
       "link": "https://jzylber.github.io/campus-data/Clases/Eventos%20JS.zip"
     },
     "objetos": {
       "nombre": "Objetos",
-      "imagen": "img/box.svg",
+      "imagen": "https://jzylber.github.io/campus-data/img/box.svg",
       "link": "https://jzylber.github.io/campus-data/Clases/Objetos%20JS.zip"
     },
     "dom": {
       "nombre": "DOM",
-      "imagen": "img/webpage.svg",
+      "imagen": "https://jzylber.github.io/campus-data/img/webpage.svg",
       "link": "https://jzylber.github.io/campus-data/Clases/DOM.zip"
     },
     "ciclos1": {
       "nombre": "Ciclos I",
-      "imagen": "img/loop.svg",
+      "imagen": "https://jzylber.github.io/campus-data/img/loop.svg",
       "link": ""
     },
     "array": {
       "nombre": "Listas",
-      "imagen": "img/array.svg",
+      "imagen": "https://jzylber.github.io/campus-data/img/array.svg",
       "link": ""
     }
   },
