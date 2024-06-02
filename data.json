@@ -133,7 +133,7 @@
       "tema": "Ciclos I",
       "tipo": "actividad",
       "imagen": "https://www.clarin.com/2023/08/03/s9ThhoomY_2000x1500__1.jpg",
-      "link": "",
+      "link": "https://campus.ort.edu.ar/articulo/2109436/pizzeria-bajo-belgrano",
       "material": ["ciclos1"]
     },
     "compass": {
@@ -142,6 +142,22 @@
       "tipo": "actividad",
       "imagen": "https://warfarehistorynetwork.com/wp-content/uploads/2016/11/W-Compass-12-HT-Nov11.jpg",
       "link": "https://campus.ort.edu.ar/articulo/2105278/operation-compass",
+      "material": []
+    },
+    "america": {
+      "nombre": "Copa América",
+      "tema": "Listas",
+      "tipo": "actividad",
+      "imagen": "https://a.espncdn.com/photo/2021/0711/r878963_1296x729_16-9.jpg",
+      "link": "https://campus.ort.edu.ar/articulo/2109481/copa-america",
+      "material": ["listas"]
+    },
+    "autoevaluacion": {
+      "nombre": "Autoevaluación",
+      "tema": "Primer Cuatrimestre",
+      "tipo": "tp",
+      "imagen": "https://static.vecteezy.com/system/resources/previews/012/587/025/original/character-flat-drawing-active-businessman-standing-and-mark-checklist-with-huge-pencil-person-completion-business-task-goal-achievements-planning-schedule-concept-cartoon-design-illustration-vector.jpg",
+      "link": "https://forms.gle/xLNFfhUnFL5VK7ke6",
       "material": []
     },
     "espera": {
@@ -197,12 +213,12 @@
     "ciclos1": {
       "nombre": "Ciclos I",
       "imagen": "https://jzylber.github.io/campus-data/img/loop.svg",
-      "link": ""
+      "link": "https://jzylber.github.io/campus-data/Clases/Ciclos%20I.zip"
     },
-    "array": {
+    "listas": {
       "nombre": "Listas",
       "imagen": "https://jzylber.github.io/campus-data/img/array.svg",
-      "link": ""
+      "link": "https://jzylber.github.io/campus-data/Clases/Listas.zip"
     }
   },
   "cursos": {
