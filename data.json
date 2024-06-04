@@ -116,7 +116,7 @@
       "nombre": "NBA",
       "tema": "DOM",
       "tipo": "actividad",
-      "imagen": "https://i.pinimg.com/originals/bd/f5/c0/bdf5c05a75a4044e76e64e02c16088eb.jpg",
+      "imagen": "https://media1.sacurrent.com/sacurrent/imager/u/original/14873141/gettyimages-495277710_master.jpg",
       "link": "https://campus.ort.edu.ar/secundaria/belgrano/tic/articulo/2096451/nba",
       "material": ["dom"]
     },
@@ -255,7 +255,8 @@
       "ticet",
       "avatar",
       "pacman",
-      "nba"
+      "nba",
+      "huella"
     ],
     "nr3e": [
       "receta",
