@@ -1,0 +1,156 @@
+{
+  "activities": [
+    {
+      "id": "intro",
+      "title": "Presentación de la materia",
+      "subtitle": "",
+      "type": "Presentación",
+      "image": "https://media.licdn.com/dms/image/D4E12AQEnNKiiNUKz9Q/article-cover_image-shrink_720_1280/0/1693476739453?e=2147483647&v=beta&t=vA7q5Jo23C2UXQE4FQ3lTlpB7ugmZa5QZzAfSQ5rQ-A",
+      "url": ""
+    },
+    {
+      "id": "mangueras",
+      "title": "Mangueras Musmanno Rock Festival",
+      "subtitle": "git",
+      "type": "Actividad",
+      "image": "https://premiosdemocracia.org.ar/wp-content/uploads/2016/09/Peter_Capusotto_y_sus_Videos-1.jpg",
+      "url": "https://campus.ort.edu.ar/secundaria/belgrano/tic/articulo/2040306/mangueras-musmanno-rock-festival"
+    },
+    {
+      "id": "gaumont",
+      "title": "Cine Gaumont",
+      "subtitle": "while y listas",
+      "type": "Actividad",
+      "image": "https://images.pagina12.com.ar/styles/focal_16_9_960x540/public/2024-03/822608-gaumont-20-282-29.jpg?h=3ec7d7d2&itok=ziMjpYuR",
+      "url": "https://campus.ort.edu.ar/secundaria/belgrano/tic/articulo/2075862/cine-gaumont"
+    },
+    {
+      "id": "discurso",
+      "title": "Discurso Inaugural",
+      "subtitle": "diccionarios, for y funciones",
+      "type": "Actividad",
+      "image": "https://media.lmcipolletti.com/p/9efa6bed9ba9c15d95766257803c536a/adjuntos/195/imagenes/007/265/0007265711/1200x675/smart/raul-alfonsinjpg.jpg",
+      "url": "https://campus.ort.edu.ar/articulo/2079083/discurso-inaugural"
+    },
+    {
+      "id": "licencia",
+      "title": "Licencia de Conducir",
+      "subtitle": "pasaje por copia/pasaje por referencia",
+      "type": "Actividad",
+      "image": "https://cdn-1.motorsport.com/images/amp/2d1nOXBY/s1000/richard-burns-2001-rally-new-z.jpg",
+      "url": "https://campus.ort.edu.ar/articulo/2084888/licencia-de-conducir"
+    },
+    {
+      "id": "chiqui",
+      "title": "La Oficina del Chiqui",
+      "subtitle": "trabajo práctico unidad I",
+      "type": "Trabajo Práctico",
+      "image": "https://lmdiario.com.ar/download/multimedia.normal.9bdbb48061cd7f7a.436869717569207461706961206669726d612057616c74204469736e657920435f6e6f726d616c2e77656270.webp",
+      "url": "https://campus.ort.edu.ar/articulo/1966352/la-oficina-del-chiqui"
+    },
+    {
+      "id": "sherlock",
+      "title": "Sherlock Holmes y las 12 cuotas sin interés",
+      "subtitle": "introducción a testing",
+      "type": "Actividad",
+      "image": "https://www.tasteofcinema.com/wp-content/uploads/2016/03/The-Hound-of-the-Baskervilles-1939.jpg",
+      "url": "https://campus.ort.edu.ar/articulo/1965744/12-cuotas-de-sherlock-holmes"
+    },
+    {
+      "id": "miguel-angel",
+      "title": "Miguel Ángel",
+      "subtitle": "unit testing",
+      "type": "Actividad",
+      "image": "https://www.cronica.com.ar/__export/1707747324089/sites/cronica/img/2024/02/12/miguel_angel_pichetto_avalo_una_alianza_entre_la_libertad_avanza_y_el_pro_crop1707746662420.png_673822677.png",
+      "url": "https://campus.ort.edu.ar/secundaria/belgrano/tic/articulo/2107641/miguel-angel"
+    },
+    {
+      "id": "chiqui-alt",
+      "title": "La Oficina del Chiqui",
+      "subtitle": "consigna alternativa",
+      "type": "Trabajo Práctico",
+      "image": "https://images.pagina12.com.ar/styles/focal_3_2_960x640/public/2023-04/712752-whatsapp-20image-202023-04-03-20at-2018-45-40.jpeg?h=ada05aa9&itok=FaPsvGJE",
+      "url": "https://campus.ort.edu.ar/articulo/2115613/la-oficina-del-chiqui-alt"
+    },
+    {
+      "id": "panama",
+      "title": "Canal de Panamá",
+      "subtitle": "trabajo práctico unidad II",
+      "type": "Trabajo Práctico",
+      "image": "https://www.maquinariacarran.cl/wp-content/uploads/2022/05/post_26_5_header3.png",
+      "url": "https://campus.ort.edu.ar/articulo/2113932/canal-de-panama"
+    },
+    {
+      "id": "nota1c",
+      "title": "Nota 1° Cuatrimestre",
+      "subtitle": "",
+      "type": "Información",
+      "image": "https://thejournal.com/-/media/EDU/THEJournal/2019-Images-Editorial/20191024Empoweringstudentsuccess.jpg",
+      "url": ""
+    }
+  ],
+  "courses": {
+    "nr5a": [
+      "intro",
+      "mangueras",
+      "gaumont",
+      "discurso",
+      "licencia",
+      "chiqui",
+      "sherlock",
+      "miguel-angel",
+      "chiqui-alt",
+      "panama",
+      "nota1c"
+    ],
+    "nr5b": [
+      "intro",
+      "mangueras",
+      "gaumont",
+      "discurso",
+      "licencia",
+      "chiqui",
+      "sherlock",
+      "miguel-angel",
+      "chiqui-alt",
+      "nota1c"
+    ],
+    "nr5c": [
+      "intro",
+      "mangueras",
+      "gaumont",
+      "discurso",
+      "licencia",
+      "chiqui",
+      "sherlock",
+      "miguel-angel",
+      "chiqui-alt",
+      "nota1c"
+    ],
+    "nr5d": [
+      "intro",
+      "mangueras",
+      "gaumont",
+      "discurso",
+      "licencia",
+      "chiqui",
+      "sherlock",
+      "miguel-angel",
+      "chiqui-alt",
+      "nota1c"
+    ],
+    "nr5e": [
+      "intro",
+      "mangueras",
+      "gaumont",
+      "discurso",
+      "licencia",
+      "chiqui",
+      "sherlock",
+      "miguel-angel",
+      "chiqui-alt",
+      "panama",
+      "nota1c"
+    ]
+  }
+}
