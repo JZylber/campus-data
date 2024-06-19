@@ -240,7 +240,8 @@
       "nba",
       "huella",
       "pizzeria",
-      "compass"
+      "compass",
+      "america"
     ],
     "nr3b": [
       "receta",
@@ -282,7 +283,8 @@
       "huella",
       "pizzeria",
       "compass",
-      "america"
+      "america",
+      "autoevaluacion"
     ]
   }
 }
