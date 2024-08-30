@@ -21,15 +21,22 @@
 <ul>
   <li>
     <em>"sabores"</em>: Devolver la lista de todos los sabores, que se encuentra
-    en data/sabores.json
+    en data/sabores.json.
   </li>
   <li>
     <em>"productos"</em>: Devolver la lista de todos los productos, que se
-    encuentra en data/productos.json
+    encuentra en data/productos.json.
   </li>
   <li>
     <em>"pedido"</em>: Recibe un pedido en forma de objeto, se debe guardar en
-    la lista de objetos que se encuentra data/pedidos.json
+    la lista de objetos que se encuentra data/pedidos.json.
+    <strong>Debe retornar un objeto</strong> que contenga el atributo
+    <code class="language-javascript">ok</code> con el valor
+    <code class="language-javascript">true</code> si el pedido fue guardado
+    correctamente, o <code class="language-javascript">false</code> si no se
+    pudo guardar. Por ejemplo se envía el objeto
+    <code class="language-javascript">{ok:true}</code> si se guardó
+    correctamente.
   </li>
 </ul>
 <p>
