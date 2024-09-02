@@ -1,0 +1,58 @@
+<h1>Trinity</h1>
+<p>
+  <strong
+    >¡NO SE OLVIDEN DE ARMAR EL .gitignore para excluir todo lo que no quieren
+    commitear!</strong
+  >
+  Veo un node_modules pusheado y se llevan la materia automáticamente.
+</p>
+<p>
+  Este TP usa la librería Serialport. Para instalarla, pueden hacerlo igual que
+  cualquier otra librería usando npm:
+  <code class="language-bash">npm i serialport</code>
+</p>
+<h2>Consigna</h2>
+<p>
+  ¡La carrera por la bomba está en marcha! Los estados unidos llevan a cabo el
+  proyecto manhattan en donde las mentes mas brillantes del mundo científico
+  trabajan a contrarreloj para desarrollar la primera bomba atómica y derrotar a
+  la alemania nazi.
+</p>
+<p>
+  La primera detonación de prueba fue llamada trinity. Te encomendaron hacer el
+  sistema de detonación, que es una simple contraseña de 4 dígitos. ¡Pero te la
+  olvidaste! Está la bomba activada, y una orden de suspender la detonación. Tu
+  misión es encontrar la contraseña para poder detenerla a tiempo. ¡Y tenés un
+  solo intento!
+</p>
+<p>
+  Pero contamos con algunas pistas. En particular, hay programadas unas placas
+  arduino que dado los últimos 4 dígitos de tu DNI y una contraseña, nos dice si
+  es correcta o incorrecta. Se pueden usar estas placas para ir probando
+  contraseñas hasta obtener la correcta. En particular, las placas funcionan de
+  la siguiente forma:
+</p>
+<ol>
+  <li>
+    En el arranque de la comunicación, escriben por pantalla "AVAILABLE\n"
+    (Recuerden que \n es un enter) y se queda esperando mensajes.
+  </li>
+  <li>
+    El arduino recibe mensajes de la forma "&ltúltimos 4 dígitos de tu
+    DNI&gt,&ltcontraseña a probar&gt\n" y responde con "OK\n" si la contraseña
+    es correcta, o "INCORRECT PASSWORD\n" si la contraseña es incorrecta.
+  </li>
+</ol>
+<p>
+  Habiendo descubrido la contraseña, construyan
+  <strong>otro</strong> programa que cuando el arduino responda "AVAILABLE\n",
+  simplemente ponga por el puerto serial la contraseña descubierta. Este
+  programa lo van a usar para desactivar la bomba <em>"real"</em> que tenemos
+  los profes.
+</p>
+<p>
+  <strong
+    >La actividad se considera hecha cuando se acercan a la mesa y logren
+    desactivar la bomba. ¡Tienen un solo intento!</strong
+  >
+</p>
