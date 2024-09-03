@@ -38,21 +38,17 @@
     por USB. El baudrate es de 115200.
   </li>
   <li>
-    En el arranque de la comunicación, escriben por pantalla "AVAILABLE\n"
-    (Recuerden que \n es un enter) y se queda esperando mensajes.
-  </li>
-  <li>
     El arduino recibe mensajes de la forma "&ltúltimos 4 dígitos de tu
-    DNI&gt,&ltcontraseña a probar&gt\n" y responde con "OK\n" si la contraseña
-    es correcta, o "INCORRECT PASSWORD\n" si la contraseña es incorrecta.
+    DNI&gt,&ltcontraseña a probar&gt\n" (Recuerden que "\n" es el caracter que
+    representa un salto de línea) y responde con "1\n" si la contraseña es
+    correcta, o "0\n" si la contraseña es incorrecta.
   </li>
 </ol>
 <p>
   Habiendo descubrido la contraseña, construyan
-  <strong>otro</strong> programa que cuando el arduino responda "AVAILABLE\n",
-  simplemente ponga por el puerto serial la contraseña descubierta. Este
-  programa lo van a usar para desactivar la bomba <em>"real"</em> que tenemos
-  los profes.
+  <strong>otro</strong> programa que simplemente ponga por el puerto serial la
+  contraseña descubierta. Este programa lo van a usar para desactivar la bomba
+  <em>"real"</em> que tenemos los profes.
 </p>
 <p>
   <strong
