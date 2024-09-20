@@ -38,6 +38,14 @@
     por USB. El baudrate es de 115200.
   </li>
   <li>
+    Al iniciarse, <strong>el arduino envía un primer mensaje</strong>, que dice
+    "AVAILABLE\n". Este mensaje indica que el arduino está listo para recibir
+    mensajes. Recuerden que "\n" es el caracter que representa un salto de
+    línea. <strong>TIP:</strong> para limpiar el dato recibido (sacarle el salto
+    de línea y otras giladas con las que venga adelante o atrás), pueden usar el
+    método <code class="language-javascript">trim()</code> de JavaScript.
+  </li>
+  <li>
     El arduino recibe mensajes de la forma "&ltúltimos 4 dígitos de tu
     DNI&gt,&ltcontraseña a probar&gt\n" (Recuerden que "\n" es el caracter que
     representa un salto de línea) y responde con "1\n" si la contraseña es
