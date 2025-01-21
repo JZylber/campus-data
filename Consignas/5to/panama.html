@@ -1,5 +1,4 @@
-<h1 id="canal-de-panamá">Canal de Panamá</h1>
-<h2 id="introducción">Introducción</h2>
+<h2>Introducción</h2>
 <p>
   ¡Los yanquis finalmente devuelven el canal! Panamá recupera la soberanía del
   territorio, y ya no hay más bases militares. En particular, el canal pasa a
@@ -20,7 +19,7 @@
   además de entrevistas a sus desarrolladores. Esta información es vital para
   construir el conjunto de tests, y está detallada a continuación.
 </p>
-<h2 id="funcionamiento">Funcionamiento</h2>
+<h2>Funcionamiento</h2>
 <p>
   Toda esta sección explica el funcionamiento del canal. Pueden probarlo con el
   simulador, <code>canal_diagram.py</code>. A continuación un diagrama de las
@@ -32,7 +31,7 @@
     alt="Diagrama del canal"
   />
 </p>
-<h3 id="estado-del-canal">Estado del Canal</h3>
+<h3>Estado del Canal</h3>
 <p>
   El componente principal del sistema de control del canal es el estado. Este es
   un diccionario que cuentan con toda la información de las esclusas en un
@@ -91,9 +90,7 @@
     pueden ingresar al canal.
   </li>
 </ul>
-<h3 id="fase-i-ejecutar-comandos-de-control-pendientes">
-  Fase I: Ejecutar comandos de control pendientes
-</h3>
+<h3>Fase I: Ejecutar comandos de control pendientes</h3>
 <p>
   Antes, tenemos que entender que es el control, una de las partes principales
   del estado. El control es una lista de tuplas de la forma
@@ -148,9 +145,7 @@
     </p>
   </li>
 </ol>
-<h3 id="fase-ii-mover-barcos-a-través-de-las-esclusas">
-  Fase II: Mover barcos a través de las esclusas
-</h3>
+<h3>Fase II: Mover barcos a través de las esclusas</h3>
 <p>
   Cuando ya hay barcos en las esclusas, hay toda una lógica para ver si un barco
   puede avanzar de esclusa o salir del canal, o hay que modificar los niveles de
@@ -230,9 +225,7 @@
   Además, los barcos no pueden retroceder, es decir, moverse en una dirección
   opuesta a la dirección en la que está funcionando el canal actualmente.
 </p>
-<h3 id="fase-iii-mover-barcos-al-canal-desde-las-filas">
-  Fase III: Mover barcos al canal desde las filas
-</h3>
+<h3>Fase III: Mover barcos al canal desde las filas</h3>
 <p>
   Finalmente, el programa ve si hay barcos que quieren entrar al canal.
   Obviamente, tiene que estar el canal abierto. Si la dirección es
@@ -277,7 +270,7 @@
     <code>(2, &quot;move qu 2&quot;)</code>.
   </li>
 </ul>
-<h2 id="entrevista-a-empleados">Entrevista a empleados</h2>
+<h2>Entrevista a empleados</h2>
 <p>
   Para saber más sobre el programa que estamos recibiendo, la empresa le hizo
   entrevistas a los empleados salientes. En particular, el siguiente fragmento
@@ -317,7 +310,7 @@
     particularly tough, and it took a lotta time and effort to get it right.</em
   >
 </p>
-<h2 id="librerías">Librerías</h2>
+<h2>Librerías</h2>
 <p>
   Para hacer este tp, se necesitan esencialmente 2 librerías: pytest para los
   tests, y pygame para los diagramas. Esto se hace con:
@@ -325,7 +318,7 @@
 <pre><code class="language-bash">pip install --user pytest
 pip install --user pygame
 </code></pre>
-<h2 id="simulador">Simulador</h2>
+<h2>Simulador</h2>
 <p>
   Para correr el simulador y ver interactivamente como funciona el canal, deben
   tener instalada la librería <code>pygame</code> y correr el archivo
@@ -343,7 +336,7 @@ pip install --user pygame
     se ven en el debug.
   </li>
 </ul>
-<h2 id="consigna">Consigna</h2>
+<h2>Consigna</h2>
 <p>
   Construir un conjunto de tests para la función
   <code>move_through_locks</code> que se encarga de la
@@ -365,7 +358,7 @@ pip install --user pygame
   archivo es <code>canal_buggeado.py</code>. Nuestro conjunto de tests debe ser
   capaz de detectar la falla.
 </p>
-<h2 id="archivos">Archivos</h2>
+<h2>Archivos</h2>
 <p>El tp cuenta con los siguientes archivos:</p>
 <ul>
   <li>
@@ -379,7 +372,7 @@ pip install --user pygame
     con bugs.
   </li>
 </ul>
-<h2 id="rúbrica-de-evaluación">Rúbrica de Evaluación</h2>
+<h2>Rúbrica de Evaluación</h2>
 <p>
   La el trabajo práctico va a ser evaluado con la rúbrica que está a
   continuación.
